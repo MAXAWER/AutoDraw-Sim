@@ -1,0 +1,27 @@
+# Build artifacts
+/dist/
+/build/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+screen_tmp.png
+*.log
+
+# Environment
+.env
+venv/
