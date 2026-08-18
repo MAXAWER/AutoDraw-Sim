@@ -25,3 +25,7 @@ screen_tmp.png
 # Environment
 .env
 venv/
+
+# Recordings and captures
+*.session.json
+screen_tmp.png
